@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-// TESTaaaaaaaa
+// TEST
 
 function App() {
   return (
